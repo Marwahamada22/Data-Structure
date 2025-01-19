@@ -1,5 +1,7 @@
 # Data-Structure
  Data structures are “containers” that organize and group data according to type. The data structures differ based on mutability and order
+
+ 
  ![image](https://github.com/user-attachments/assets/6039ab35-3842-4051-9ef8-cafc6d886cc8)
 
 
